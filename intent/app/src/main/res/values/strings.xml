@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP04</string>
+
+
+    <string-array name="wilayas">
+        <item> Tizi ouzou</item>
+        <item> Alger </item>
+        <item> Oran </item>
+        <item> Constantine</item>
+        <item> Setif </item>
+
+
+    </string-array>
+</resources>
